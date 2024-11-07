@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 This is example code for the Random Forest Models built in the manuscript entitled
-The Use of Random Forest Machine Learning Models for Veterinary Student Recruitment and Retention: Predicting Academic Success and Identification of At Risk- Students
-
+Random forest models reveal academic and financial factors outweigh demographics in predicting completion of a year-round veterinary program
 @author: Sarah
 """
 #Import required functions and/or packages.  This will also occur throughout the example code.
