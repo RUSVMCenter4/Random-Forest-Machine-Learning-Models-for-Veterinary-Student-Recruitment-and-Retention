@@ -40,4 +40,6 @@ social determinants
 
 This repository contains example student data and the Python code to create one of the random forest machine learning models.  The code can be adapted to meet your analysis needs.  Please make sure to see the comments that help explain the code and point out important things such as ensuring your performance metrics use the testing datasets and not the entire dataset (training and testing).
 
+[![DOI](https://zenodo.org/badge/582981344.svg)](https://doi.org/10.5281/zenodo.14051065)
+
 
