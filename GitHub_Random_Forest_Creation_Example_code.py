@@ -198,7 +198,7 @@ nested_score = cross_val_score(best_grid_model, X, y, cv=kf, \
 print(nested_score)
 
 #Mean values for each parameter
-
+#Ensure your X and y values are defined as the testing dataset!!!
 score_accuracy_mean = cross_val_score(best_grid_model, X, y, cv=kf, scoring='accuracy').mean()
 print(score_accuracy_mean)
 
